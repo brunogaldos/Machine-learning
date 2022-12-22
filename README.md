@@ -9,11 +9,13 @@ Exercises Outline :
 - Exercise q7: Convolutional Neural Network
 
 ## Notebook link
-- [Exercise 1 exercise_1](./q1_adaboost_python)
-- [Exercise 2: Graph cut](./Exercise2/01_graph_cuts.ipynb)
-- [Exercise 2: Mean shift](./Exercise2/02_mean_shift.ipynb)
-- [Exercise 2: Sliding window](./Exercise2/03_sliding_window_detection.ipynb)
-- [Exercise 3: Local features](./Exercise3/local_feature_matching.ipynb)
+- [Exercise 1](./q1_adaboost_python)
+- [Exercise 1](./q2_svm_python)
+- [Exercise 1](./q3_knn_python)
+- [Exercise 1](./q4_expectation_maximization_python)
+- [Exercise 1](./q5_leastSquare_linear_classifier_python)
+- [Exercise 1](./q6_backprop_impl_deep)
+- [Exercise 1](./q7_cnn)
 
 ## Setting up the environment
 ```bash
