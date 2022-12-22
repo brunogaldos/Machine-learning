@@ -10,12 +10,12 @@ Exercises Outline :
 
 ## Notebook link
 - [Exercise 1](./q1_adaboost_python)
-- [Exercise 1](./q2_svm_python)
-- [Exercise 1](./q3_knn_python)
-- [Exercise 1](./q4_expectation_maximization_python)
-- [Exercise 1](./q5_leastSquare_linear_classifier_python)
-- [Exercise 1](./q6_backprop_impl_deep)
-- [Exercise 1](./q7_cnn)
+- [Exercise 2](./q2_svm_python)
+- [Exercise 3](./q3_knn_python)
+- [Exercise 4](./q4_expectation_maximization_python)
+- [Exercise 5](./q5_leastSquare_linear_classifier_python)
+- [Exercise 6](./q6_backprop_impl_deep)
+- [Exercise 7](./q7_cnn)
 
 ## Setting up the environment
 ```bash
